@@ -1,7 +1,7 @@
 # LUME
 
 
-- LUME is a project to extend and generalize the SimEx platform for FEL community use.
+- LUME is a project to extend and generalize the [SimEx](https://github.com/eucall-software/simex_platform) platform for FEL community use.
 
 - Wrap standard, developed electron/photon simulation codes with a common interface (pure Python) with minimal installation complexity, ultimately platform-independent (laptop to  HPC)
 
