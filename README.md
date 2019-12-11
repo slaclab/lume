@@ -22,6 +22,7 @@
 
 [openPMD beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
 
+[openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
 
 ## Injector codes
 
