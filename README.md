@@ -24,10 +24,17 @@
 
 [openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
 
+
+## Particle Creation
+
+[distgen](https://github.com/ColwynGulliford/distgen)
+
+
 ## Injector codes
 
-
 [LUME-Astra](https://github.com/ChristopherMayes/lume-astra)
+
+[LUME-GPT](https://github.com/ColwynGulliford/lume-gpt)
 
 [LUME-Impact](https://github.com/ChristopherMayes/lume-impact)
 
@@ -44,3 +51,11 @@
 ## X-ray codes
 
 [SRW](https://github.com/ochubar/SRW)
+
+
+## EPICS
+
+[LUME-EPICS](https://github.com/slaclab/lume-epics)
+
+## Surrogate Models
+[LUME-EPICS](https://github.com/slaclab/lume-model)
