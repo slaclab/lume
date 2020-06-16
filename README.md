@@ -58,4 +58,4 @@
 [LUME-EPICS](https://github.com/slaclab/lume-epics)
 
 ## Surrogate Models
-[LUME-EPICS](https://github.com/slaclab/lume-model)
+[LUME-Model](https://github.com/slaclab/lume-model)
