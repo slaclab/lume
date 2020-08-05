@@ -16,13 +16,15 @@
 
 
 
-## Particle exchange standard
+## Particle and Wavefront exchange standards
 
 [openPMD](https://github.com/openPMD/openPMD-standard)
 
-[openPMD beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
+[openPMD-beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
 
 [openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
+
+[openPMD-wavefront extension] (https://github.com/PaNOSC-ViNYL/openPMD-standard/blob/upcoming-2.0.0/EXT_WAVEFRONT.md)
 
 
 ## Particle Creation
