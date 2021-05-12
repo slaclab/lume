@@ -1,0 +1,17 @@
+
+
+nav:
+  - index.md
+  
+site_name: LUME
+
+theme:
+  name: 'material'
+  
+  
+markdown_extensions:
+  - codehilite  
+  
+plugins:
+    - search
+    - minify
