@@ -162,9 +162,87 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        LUME
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="." class="md-nav__link md-nav__link--active">
       LUME
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#particle-and-wavefront-exchange-standards" class="md-nav__link">
+    Particle and Wavefront exchange standards
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#particle-creation" class="md-nav__link">
+    Particle Creation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#injector-codes" class="md-nav__link">
+    Injector codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accelerator-codes" class="md-nav__link">
+    Accelerator codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fel-codes" class="md-nav__link">
+    FEL codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#x-ray-codes" class="md-nav__link">
+    X-ray codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epics" class="md-nav__link">
+    EPICS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#surrogate-models" class="md-nav__link">
+    Surrogate Models
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -186,6 +264,70 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#particle-and-wavefront-exchange-standards" class="md-nav__link">
+    Particle and Wavefront exchange standards
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#particle-creation" class="md-nav__link">
+    Particle Creation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#injector-codes" class="md-nav__link">
+    Injector codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accelerator-codes" class="md-nav__link">
+    Accelerator codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fel-codes" class="md-nav__link">
+    FEL codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#x-ray-codes" class="md-nav__link">
+    X-ray codes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epics" class="md-nav__link">
+    EPICS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#surrogate-models" class="md-nav__link">
+    Surrogate Models
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -198,6 +340,83 @@
                 
                 
                 <h1 id="lume">LUME</h1>
+<ul>
+<li>
+<p>LUME is a project to extend and generalize the <a href="https://github.com/eucall-software/simex_platform">SimEx</a> platform for FEL community use.</p>
+</li>
+<li>
+<p>Wrap standard, developed electron/photon simulation codes with a common interface (pure Python) with minimal installation complexity, ultimately platform-independent (laptop to  HPC)</p>
+</li>
+<li>
+<p>Use the newly developed openPMD standard for data exchange (HDF5 files).</p>
+</li>
+<li>
+<p>Create standards for machine and beamline components database descriptions. </p>
+</li>
+<li>
+<p>Well documented for use by developers, Ph.D. students, users (simulation as a service).</p>
+</li>
+<li>
+<p>Supporting technologies: Machine database, Simulation Catalogue, Visualization and (G)UI,Optimization hooks, PSANA integration</p>
+</li>
+</ul>
+<h2 id="particle-and-wavefront-exchange-standards">Particle and Wavefront exchange standards</h2>
+<ul>
+<li>
+<p><a href="https://github.com/openPMD/openPMD-standard">openPMD</a></p>
+</li>
+<li>
+<p><a href="https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md">openPMD-beamphysics extension</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ChristopherMayes/openPMD-beamphysics">openPMD beamphysics Python package</a></p>
+</li>
+<li>
+<p><a href="https://github.com/openPMD/openPMD-standard/blob/upcoming-2.0.0/EXT_Wavefront.md">openPMD-wavefront extension</a></p>
+</li>
+</ul>
+<h2 id="particle-creation">Particle Creation</h2>
+<ul>
+<li><a href="https://github.com/ColwynGulliford/distgen">distgen</a></li>
+</ul>
+<h2 id="injector-codes">Injector codes</h2>
+<ul>
+<li>
+<p><a href="https://github.com/ChristopherMayes/lume-astra">LUME-Astra</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ColwynGulliford/lume-gpt">LUME-GPT</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ChristopherMayes/lume-impact">LUME-Impact</a></p>
+</li>
+</ul>
+<h2 id="accelerator-codes">Accelerator codes</h2>
+<ul>
+<li><a href="https://www.classe.cornell.edu/bmad/">Bmad</a></li>
+</ul>
+<h2 id="fel-codes">FEL codes</h2>
+<ul>
+<li>
+<p><a href="https://github.com/slaclab/lume-genesis">LUME-Genesis</a></p>
+</li>
+<li>
+<p><a href="https://github.com/slaclab/zfel">ZFEL</a></p>
+</li>
+</ul>
+<h2 id="x-ray-codes">X-ray codes</h2>
+<ul>
+<li><a href="https://github.com/ochubar/SRW">SRW</a></li>
+</ul>
+<h2 id="epics">EPICS</h2>
+<ul>
+<li><a href="https://github.com/slaclab/lume-epics">LUME-EPICS</a></li>
+</ul>
+<h2 id="surrogate-models">Surrogate Models</h2>
+<ul>
+<li><a href="https://github.com/slaclab/lume-model">LUME-Model</a></li>
+</ul>
+<h1 id="github">GitHub</h1>
 <p><a href="https://github.com/slaclab/lume">https://github.com/slaclab/lume</a></p>
                 
               
