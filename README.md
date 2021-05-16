@@ -18,46 +18,46 @@
 
 ## Particle and Wavefront exchange standards
 
-[openPMD](https://github.com/openPMD/openPMD-standard)
+- [openPMD](https://github.com/openPMD/openPMD-standard)
 
-[openPMD-beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
+- [openPMD-beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
 
-[openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
+- [openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
 
-[openPMD-wavefront extension] (https://github.com/PaNOSC-ViNYL/openPMD-standard/blob/upcoming-2.0.0/EXT_WAVEFRONT.md)
+- [openPMD-wavefront extension](https://github.com/openPMD/openPMD-standard/blob/upcoming-2.0.0/EXT_Wavefront.md)
 
 
 ## Particle Creation
 
-[distgen](https://github.com/ColwynGulliford/distgen)
+- [distgen](https://github.com/ColwynGulliford/distgen)
 
 
 ## Injector codes
 
-[LUME-Astra](https://github.com/ChristopherMayes/lume-astra)
+- [LUME-Astra](https://github.com/ChristopherMayes/lume-astra)
 
-[LUME-GPT](https://github.com/ColwynGulliford/lume-gpt)
+- [LUME-GPT](https://github.com/ColwynGulliford/lume-gpt)
 
-[LUME-Impact](https://github.com/ChristopherMayes/lume-impact)
+- [LUME-Impact](https://github.com/ChristopherMayes/lume-impact)
 
 ## Accelerator codes
 
-[Bmad](https://www.classe.cornell.edu/bmad/)
+- [Bmad](https://www.classe.cornell.edu/bmad/)
 
 ## FEL codes
 
-[LUME-Genesis](https://github.com/slaclab/lume-genesis)
+- [LUME-Genesis](https://github.com/slaclab/lume-genesis)
 
-[ZFEL](https://github.com/slaclab/zfel)
+- [ZFEL](https://github.com/slaclab/zfel)
 
 ## X-ray codes
 
-[SRW](https://github.com/ochubar/SRW)
+- [SRW](https://github.com/ochubar/SRW)
 
 
 ## EPICS
 
-[LUME-EPICS](https://github.com/slaclab/lume-epics)
+- [LUME-EPICS](https://github.com/slaclab/lume-epics)
 
 ## Surrogate Models
-[LUME-Model](https://github.com/slaclab/lume-model)
+- [LUME-Model](https://github.com/slaclab/lume-model)
