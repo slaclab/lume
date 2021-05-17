@@ -20,12 +20,15 @@
 
 - [openPMD](https://github.com/openPMD/openPMD-standard)
 
-- [openPMD-beamphysics extension](https://github.com/DavidSagan/openPMD-standard/blob/EXT_BeamPhysics/EXT_BeamPhysics.md)
-
-- [openPMD beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
+- [openPMD-beamphysics extension](https://github.com/openPMD/openPMD-standard/blob/upcoming-2.0.0/EXT_BeamPhysics.md)
 
 - [openPMD-wavefront extension](https://github.com/openPMD/openPMD-standard/blob/upcoming-2.0.0/EXT_Wavefront.md)
 
+## Particle and Wavefront packages
+
+- [openPMD-beamphysics Python package](https://github.com/ChristopherMayes/openPMD-beamphysics)
+
+- [openPMD-wavefront Python package](https://github.com/LUME-SIMEX/openPMD-wavefront)
 
 ## Particle Creation
 
@@ -42,7 +45,7 @@
 
 ## Accelerator codes
 
-- [Bmad](https://www.classe.cornell.edu/bmad/)
+- [PyTao](https://github.com/bmad-sim/pytao) based on [Bmad](https://www.classe.cornell.edu/bmad/)
 
 ## FEL codes
 
@@ -63,9 +66,7 @@
 - [LUME-Model](https://github.com/slaclab/lume-model)
 
 
+## Optimization
 
-
-# GitHub
-
-[https://github.com/slaclab/lume](https://github.com/slaclab/lume)
+- [Xopt](https://github.com/ChristopherMayes/Xopt)
 
