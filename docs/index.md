@@ -1,6 +1,5 @@
 # LUME
 
-
 - LUME is a project to extend and generalize the [SimEx](https://github.com/eucall-software/simex_platform) platform for FEL community use.
 
 - Wrap standard, developed electron/photon simulation codes with a common interface (pure Python) with minimal installation complexity, ultimately platform-independent (laptop to  HPC)
@@ -12,6 +11,12 @@
 - Well documented for use by developers, Ph.D. students, users (simulation as a service).
 
 - Supporting technologies: Machine database, Simulation Catalogue, Visualization and (G)UI,Optimization hooks, PSANA integration
+
+
+[IPAC21 paper](https://www.slac.stanford.edu/~cmayes/IPAC21/IPAC21-THPAB217-LUME.pdf)
+
+[IPAC21 slides](https://www.slac.stanford.edu/~cmayes/IPAC21/IPAC21-THPAB217-LUME-slides.pdf)
+
 
 
 
@@ -69,4 +74,21 @@
 ## Optimization
 
 - [Xopt](https://github.com/ChristopherMayes/Xopt)
+
+
+## How to cite LUME
+
+Please use the following for publications:
+
+```bibtex
+@inproceedings{LUME,
+	author         = "C. E. Mayes, P. H. Fuoss, J. R. Garrahan, H. Slepicka, A. Halavanau, 
+	J. Krzywinski, A. L. Edelen, F. Ji, W. Lou, N. R. Neveu, A. Huebl, R. Lehe, L. Gupta,
+	C. M. Gulliford, D. C. Sagan, J. C. E, C. Fortmann-Grote",
+	title          = "{Lightsource unified modelinig environment (LUME), a start-to-end simulation ecosystem",
+	booktitle      = "{Proc. of IPAC}",
+	year           = "2021",
+	pages 		="THPAB217"
+}
+```
 
