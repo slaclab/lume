@@ -82,13 +82,11 @@ Please use the following for publications:
 
 ```bibtex
 @inproceedings{LUME,
-	author         = "C. E. Mayes, P. H. Fuoss, J. R. Garrahan, H. Slepicka, A. Halavanau, 
-	J. Krzywinski, A. L. Edelen, F. Ji, W. Lou, N. R. Neveu, A. Huebl, R. Lehe, L. Gupta,
-	C. M. Gulliford, D. C. Sagan, J. C. E, C. Fortmann-Grote",
-	title          = "{Lightsource unified modelinig environment (LUME), a start-to-end simulation ecosystem",
-	booktitle      = "{Proc. of IPAC}",
-	year           = "2021",
-	pages 		="THPAB217"
+    author         = "C. E. Mayes and P. H. Fuoss and J. R. Garrahan and H. Slepicka and A. Halavanau and J. Krzywinski and A. L. Edelen and F. Ji, W. Lou and N. R. Neveu and A. Huebl and R. Lehe and L. Gupta and C. M. Gulliford and D. C. Sagan and J. C. E and C. Fortmann-Grote",
+    title          = "Lightsource unified modeling environment (LUME), a start-to-end simulation ecosystem",
+    booktitle      = "Proc. of IPAC",
+    year           = "2021",
+    pages       = "THPAB217"
 }
 ```
 
